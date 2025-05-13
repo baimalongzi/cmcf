@@ -1,0 +1,510 @@
+IP地址,数据中心,地区,城市,网络延迟
+2606:4700:90c8:8f73:7230:74e0:3d84:49db,HKG,Asia Pacific,Hong Kong,27 ms
+2606:4700:90c7:8a58:b40d:c576:20a7:9de2,HKG,Asia Pacific,Hong Kong,31 ms
+2606:4700:90c1:99e0:75d1:2eaa:f602:7da4,HKG,Asia Pacific,Hong Kong,32 ms
+2a06:98c1:3120:f313:9c99:6582:540f:efb1,HKG,Asia Pacific,Hong Kong,35 ms
+2606:4700:f4:aae:1066:62e0:6c3c:9ee2,HKG,Asia Pacific,Hong Kong,35 ms
+2606:4700:8ca8:36e6:2ec6:7a4a:33e4:9cea,HKG,Asia Pacific,Hong Kong,35 ms
+2606:4700:8ca1:c727:f12b:3aff:5983:568e,HKG,Asia Pacific,Hong Kong,36 ms
+2606:4700:90c2:babc:a530:b2de:9dfc:29d7,HKG,Asia Pacific,Hong Kong,37 ms
+2606:4700:9762:61a5:eb77:125c:45f1:7139,HKG,Asia Pacific,Hong Kong,37 ms
+2606:4700:9764:44c0:8fd9:9165:884d:592d,HKG,Asia Pacific,Hong Kong,37 ms
+2606:4700:9c63:72e0:1659:1b3a:a43b:8f06,HKG,Asia Pacific,Hong Kong,37 ms
+2606:4700:9763:f20c:5783:8f36:a624:db97,HKG,Asia Pacific,Hong Kong,38 ms
+2606:4700:9765:ad5:46fb:476:36c:53c9,HKG,Asia Pacific,Hong Kong,38 ms
+2606:4700:9768:402a:163b:423d:a81:8727,HKG,Asia Pacific,Hong Kong,39 ms
+2606:4700:9767:f2e8:bd56:5b8f:a154:7956,HKG,Asia Pacific,Hong Kong,39 ms
+2606:4700:8ca2:c94a:9905:e05b:50c5:c59,HKG,Asia Pacific,Hong Kong,39 ms
+2606:4700:9766:5298:bf8e:9da7:d516:b4b2,HKG,Asia Pacific,Hong Kong,39 ms
+2606:4700:90c6:8aa6:d145:34d1:4f2e:38c6,HKG,Asia Pacific,Hong Kong,40 ms
+2606:4700:9c65:4dca:1b7e:b5d4:c9a1:a623,HKG,Asia Pacific,Hong Kong,40 ms
+2606:4700:90c5:da37:b97c:624:42b6:9b81,HKG,Asia Pacific,Hong Kong,40 ms
+2606:4700:9760:9a2c:ee19:a175:7937:2db8,HKG,Asia Pacific,Hong Kong,41 ms
+2606:4700:9769:fb2f:af73:517d:9c67:be8b,HKG,Asia Pacific,Hong Kong,41 ms
+2606:4700:9b06:9ad3:238c:4968:b99f:b3b5,HKG,Asia Pacific,Hong Kong,41 ms
+2606:4700:976a:39ca:749d:8974:8f9f:f446,HKG,Asia Pacific,Hong Kong,42 ms
+2606:4700:9c67:79cf:6cce:4301:173d:382a,HKG,Asia Pacific,Hong Kong,42 ms
+2606:4700:8ca9:dc0a:5ff5:edcf:8045:7038,HKG,Asia Pacific,Hong Kong,42 ms
+2606:4700:90d4:c188:1ec6:838a:c2ca:df00,HKG,Asia Pacific,Hong Kong,42 ms
+2606:4700:9761:642b:249e:276e:30cc:9f0c,HKG,Asia Pacific,Hong Kong,42 ms
+2606:4700:90da:5dd2:3e12:71ee:53b8:2090,HKG,Asia Pacific,Hong Kong,42 ms
+2606:4700:9c69:ed35:950d:3013:78e0:621b,HKG,Asia Pacific,Hong Kong,42 ms
+2606:4700:9c68:f943:a708:63bb:7a08:99a8,HKG,Asia Pacific,Hong Kong,42 ms
+2606:4700:8390:d40:e950:817c:4c57:511b,HKG,Asia Pacific,Hong Kong,42 ms
+2606:4700:90c0:1b1f:a051:c22b:7103:c430,HKG,Asia Pacific,Hong Kong,42 ms
+2606:4700:90d9:45c4:1309:3338:12cc:622a,HKG,Asia Pacific,Hong Kong,43 ms
+2606:4700:8cab:5d6e:af66:e208:aa0:b6f4,HKG,Asia Pacific,Hong Kong,43 ms
+2606:4700:90d3:df82:9c12:90d8:6ed8:67d8,HKG,Asia Pacific,Hong Kong,43 ms
+2606:4700:8caa:39d5:a400:2266:3395:35b,HKG,Asia Pacific,Hong Kong,43 ms
+2606:4700:9c66:2197:97d1:6bd7:fb5c:51ec,HKG,Asia Pacific,Hong Kong,43 ms
+2606:4700:9b09:e0d5:bf2d:d3cf:efbe:41a6,HKG,Asia Pacific,Hong Kong,44 ms
+2606:4700:90d8:e027:bbe5:d909:a089:e2f6,HKG,Asia Pacific,Hong Kong,44 ms
+2606:4700:90db:11af:ec30:d070:4c13:a714,HKG,Asia Pacific,Hong Kong,44 ms
+2606:4700:9c6b:6857:1b2f:7062:7657:74a2,HKG,Asia Pacific,Hong Kong,44 ms
+2a06:98c1:3121:9587:3f42:8870:4f15:ef08,HKG,Asia Pacific,Hong Kong,44 ms
+2606:4700:8ca0:b18a:2ebd:a452:2f6f:a117,HKG,Asia Pacific,Hong Kong,44 ms
+2606:4700:9b07:e8cf:7c47:8125:1351:cdc8,HKG,Asia Pacific,Hong Kong,45 ms
+2606:4700:9b05:f7a4:1e63:70bc:3b28:9d0e,HKG,Asia Pacific,Hong Kong,45 ms
+2606:4700:964b:534:25c:61c5:845e:a790,HKG,Asia Pacific,Hong Kong,45 ms
+2606:4700:9b0b:3d8e:f3b6:2dce:a022:c88a,HKG,Asia Pacific,Hong Kong,45 ms
+2606:4700:9b04:11:849a:3209:3b7:1604,HKG,Asia Pacific,Hong Kong,45 ms
+2606:4700:964a:cf84:838e:9ab:f0c8:9665,HKG,Asia Pacific,Hong Kong,45 ms
+2606:4700:8393:13ed:4890:b255:c0af:a321,HKG,Asia Pacific,Hong Kong,46 ms
+2606:4700:90c4:bdee:a109:e494:ca52:4fe7,HKG,Asia Pacific,Hong Kong,46 ms
+2606:4700:9b03:3dbb:a6f8:90f8:fc43:a45d,HKG,Asia Pacific,Hong Kong,46 ms
+2606:4700:9c6a:1a2b:8c69:d746:d47e:2c0c,HKG,Asia Pacific,Hong Kong,46 ms
+2606:4700:8398:36c7:3aa:d87d:9813:98a,HKG,Asia Pacific,Hong Kong,46 ms
+2606:4700:90c3:6a50:a62e:da67:8e73:c905,HKG,Asia Pacific,Hong Kong,46 ms
+2606:4700:9b0a:8fe8:9217:253f:d91:c969,HKG,Asia Pacific,Hong Kong,47 ms
+2606:4700:8397:954e:6e31:a21b:49f7:7aa8,HKG,Asia Pacific,Hong Kong,47 ms
+2606:4700:9648:b9d0:c452:1be0:f679:8693,HKG,Asia Pacific,Hong Kong,47 ms
+2606:4700:8396:70fa:e44:a00c:7385:6ed,HKG,Asia Pacific,Hong Kong,47 ms
+2606:4700:8395:2e86:8e89:cd45:fb07:354c,HKG,Asia Pacific,Hong Kong,47 ms
+2606:4700:9645:f1ea:922a:aadc:ae1f:ab42,HKG,Asia Pacific,Hong Kong,48 ms
+2606:4700:976b:8f15:7930:6b15:4efc:3fa8,HKG,Asia Pacific,Hong Kong,48 ms
+2606:4700:9647:2b59:c061:e177:7c1e:afc5,HKG,Asia Pacific,Hong Kong,48 ms
+2606:4700:9644:5e52:9e0:671:c026:a9bf,HKG,Asia Pacific,Hong Kong,48 ms
+2606:4700:90d2:5a84:dd79:ca03:e9e7:8938,HKG,Asia Pacific,Hong Kong,48 ms
+2606:4700:9b02:1320:fa3:1191:2980:d78f,HKG,Asia Pacific,Hong Kong,48 ms
+2606:4700:90d0:a1e2:d386:93d7:1e87:2027,HKG,Asia Pacific,Hong Kong,48 ms
+2606:4700:90c9:dad6:e2c7:51d5:4ec2:2e8d,HKG,Asia Pacific,Hong Kong,48 ms
+2606:4700:9643:2e83:a47:7ffa:8a4d:e151,HKG,Asia Pacific,Hong Kong,48 ms
+2606:4700:9646:91d2:acf7:a11f:2df1:3f8c,HKG,Asia Pacific,Hong Kong,48 ms
+2606:4700:9c64:9002:820c:7eb4:1e10:4888,HKG,Asia Pacific,Hong Kong,48 ms
+2606:4700:9c61:a9f:e70b:d922:1b39:86a5,HKG,Asia Pacific,Hong Kong,48 ms
+2606:4700:9c62:89f0:8a42:9a03:e2d1:b647,HKG,Asia Pacific,Hong Kong,48 ms
+2606:4700:8394:6bb4:d82a:eeb4:5846:cb92,HKG,Asia Pacific,Hong Kong,48 ms
+2606:4700:90d1:64e4:3da5:d548:c7d6:fdc4,HKG,Asia Pacific,Hong Kong,48 ms
+2606:4700:8399:852c:1026:f306:c3f6:632a,HKG,Asia Pacific,Hong Kong,49 ms
+2606:4700:9c60:ce20:2c41:7758:2612:db48,HKG,Asia Pacific,Hong Kong,49 ms
+2606:4700:9b08:a178:7d33:ef6c:7230:98f6,HKG,Asia Pacific,Hong Kong,49 ms
+2606:4700:8391:726f:48de:4ad5:ebeb:60e0,HKG,Asia Pacific,Hong Kong,50 ms
+2606:4700:90d5:5d9:c4b5:3413:4124:28ff,HKG,Asia Pacific,Hong Kong,52 ms
+2606:4700:8392:625e:cb23:2857:99e1:b2aa,HKG,Asia Pacific,Hong Kong,53 ms
+2606:4700:9640:1eae:551:d751:3e37:6a6b,HKG,Asia Pacific,Hong Kong,54 ms
+2606:4700:9642:8367:cb9:e88c:c97d:552c,HKG,Asia Pacific,Hong Kong,54 ms
+2606:4700:9641:8db0:6bca:fe0a:9687:d5ed,HKG,Asia Pacific,Hong Kong,54 ms
+2606:4700:57:638:100d:926d:e089:4b92,HKG,Asia Pacific,Hong Kong,57 ms
+2606:4700:9b00:4713:4ff9:d569:bd89:2987,HKG,Asia Pacific,Hong Kong,57 ms
+2606:4700:9b01:2415:e438:210:a027:809,HKG,Asia Pacific,Hong Kong,58 ms
+2606:4700:9649:4868:446b:3692:1421:6402,HKG,Asia Pacific,Hong Kong,60 ms
+2606:4700:8ca6:a90b:c13f:19e1:3e9c:9121,HKG,Asia Pacific,Hong Kong,60 ms
+2606:4700:8ca5:b5db:386:3fb8:845c:3dce,HKG,Asia Pacific,Hong Kong,60 ms
+2606:4700:90cb:9ffc:aa1:1aab:70af:cc02,HKG,Asia Pacific,Hong Kong,61 ms
+2606:4700:90ca:be7c:650b:aa66:7bac:51c4,HKG,Asia Pacific,Hong Kong,61 ms
+2606:4700:8ca7:da0:c318:134d:7e69:f348,HKG,Asia Pacific,Hong Kong,62 ms
+2606:4700:91bb:6136:974c:1f4c:b956:2f1c,HKG,Asia Pacific,Hong Kong,63 ms
+2606:4700:91b9:d76b:fdd:f84b:41d1:a812,HKG,Asia Pacific,Hong Kong,64 ms
+2606:4700:91ba:1ec1:58d9:9fdb:2cc5:9cce,HKG,Asia Pacific,Hong Kong,64 ms
+2606:4700:839b:2a3f:e7cc:c3be:f485:5344,HKG,Asia Pacific,Hong Kong,64 ms
+2606:4700:8ca4:3515:f33e:f7db:69e6:4b1e,HKG,Asia Pacific,Hong Kong,64 ms
+2606:4700:91b7:90ff:dc75:1756:c8a7:71bb,HKG,Asia Pacific,Hong Kong,64 ms
+2606:4700:91b8:bc0e:b862:fcb7:4c0f:e105,HKG,Asia Pacific,Hong Kong,64 ms
+2606:4700:839a:5c6e:cb5b:af18:dd9:4b90,HKG,Asia Pacific,Hong Kong,64 ms
+2606:4700:91b6:9748:bedb:a455:8589:7338,HKG,Asia Pacific,Hong Kong,65 ms
+2606:4700:91b5:e85a:145c:c900:4de1:59ba,HKG,Asia Pacific,Hong Kong,65 ms
+2606:4700:91b3:8b2b:7b89:95d5:3ed7:78cd,HKG,Asia Pacific,Hong Kong,66 ms
+2606:4700:91b4:c136:5ea2:d439:748f:175f,HKG,Asia Pacific,Hong Kong,66 ms
+2606:4700:91b1:cafe:f0ab:4b8:2cbc:912e,HKG,Asia Pacific,Hong Kong,66 ms
+2606:4700:91b2:f38b:c9a7:4e49:f5e2:6bea,HKG,Asia Pacific,Hong Kong,66 ms
+2606:4700:91b0:5f35:2236:1f80:e409:4342,HKG,Asia Pacific,Hong Kong,67 ms
+2606:4700:9aea:b14f:c57a:df90:1c62:74bf,HKG,Asia Pacific,Hong Kong,69 ms
+2606:4700:9aeb:fc93:92e:e901:7e4a:2806,HKG,Asia Pacific,Hong Kong,70 ms
+2606:4700:90d7:9333:97ca:3d6f:2293:894e,HKG,Asia Pacific,Hong Kong,70 ms
+2606:4700:90d6:df2f:33f7:8bb3:980a:9c56,HKG,Asia Pacific,Hong Kong,71 ms
+2606:4700:9a6a:e113:1231:5b6d:727d:4602,HKG,Asia Pacific,Hong Kong,72 ms
+2606:4700:9ae9:5139:9607:e33b:8dff:6153,HKG,Asia Pacific,Hong Kong,74 ms
+2606:4700:8ca3:a4b2:2ace:f9a6:befe:abf6,HKG,Asia Pacific,Hong Kong,75 ms
+2606:4700:9a97:f462:ae7b:95b8:b48f:3d00,HKG,Asia Pacific,Hong Kong,80 ms
+2606:4700:9a96:25c6:548b:96ab:9974:41cb,HKG,Asia Pacific,Hong Kong,81 ms
+2606:4700:9a95:9368:dffd:a3cd:e896:97ab,HKG,Asia Pacific,Hong Kong,81 ms
+2606:4700:9a94:a1c6:cb5e:a707:1dc8:aa67,HKG,Asia Pacific,Hong Kong,82 ms
+2606:4700:9a6b:e7c5:b52:c711:2e9d:3a26,HKG,Asia Pacific,Hong Kong,83 ms
+2606:4700:9a92:216a:87da:62a6:79ab:b520,HKG,Asia Pacific,Hong Kong,83 ms
+2606:4700:9a90:528a:8fd:a4a5:8609:402b,HKG,Asia Pacific,Hong Kong,83 ms
+2606:4700:9a69:9094:f99:c189:dcc0:446a,HKG,Asia Pacific,Hong Kong,89 ms
+2606:4700:9a98:6e0b:383e:cb20:ca1b:5bc7,HKG,Asia Pacific,Hong Kong,90 ms
+2606:4700:9a99:2454:cc91:8c58:925e:19ae,HKG,Asia Pacific,Hong Kong,91 ms
+2606:4700:9a93:ea6c:6a54:51b0:27ab:978f,HKG,Asia Pacific,Hong Kong,93 ms
+2606:4700:9a9a:3a:6a54:7577:ba91:be83,HKG,Asia Pacific,Hong Kong,93 ms
+2606:4700:9a91:6f97:ac2:3b4f:b443:5996,HKG,Asia Pacific,Hong Kong,94 ms
+2606:4700:9ae7:c0cb:4863:912:2e66:3dcd,HKG,Asia Pacific,Hong Kong,94 ms
+2606:4700:9a68:e859:9688:3742:a99:1240,HKG,Asia Pacific,Hong Kong,103 ms
+2606:4700:9a67:9cc1:3a43:dfbd:f6e2:79af,HKG,Asia Pacific,Hong Kong,104 ms
+2606:4700:9a66:f6e8:2ffb:b115:68aa:2720,HKG,Asia Pacific,Hong Kong,104 ms
+2606:4700:9ad4:22c:24c1:75c6:8c4b:9677,HKG,Asia Pacific,Hong Kong,105 ms
+2606:4700:9ae8:caca:514c:75e3:7358:1b9e,HKG,Asia Pacific,Hong Kong,105 ms
+2606:4700:9a65:b4a2:d9bd:a380:7794:4d9b,HKG,Asia Pacific,Hong Kong,105 ms
+2606:4700:9a64:2bb6:7007:cfd6:7800:f575,HKG,Asia Pacific,Hong Kong,105 ms
+2606:4700:9ae6:18d3:cbd1:3e9:dbcd:e6c,HKG,Asia Pacific,Hong Kong,106 ms
+2606:4700:9ae5:3764:d95e:a45b:6b33:20be,HKG,Asia Pacific,Hong Kong,107 ms
+2606:4700:9ae4:c617:4d1e:a197:83d4:c16e,HKG,Asia Pacific,Hong Kong,107 ms
+2606:4700:9ae2:5d16:dc8e:6e0c:d349:2556,HKG,Asia Pacific,Hong Kong,107 ms
+2606:4700:9ae3:89fd:8658:7f0a:fd5:350f,HKG,Asia Pacific,Hong Kong,108 ms
+2606:4700:9a63:6bc9:41d3:cd46:8237:1491,HKG,Asia Pacific,Hong Kong,111 ms
+2606:4700:9ada:68bc:7fb8:694a:6db4:98f7,HKG,Asia Pacific,Hong Kong,111 ms
+2606:4700:9adb:4fd:4467:7f6f:31b:9ed3,HKG,Asia Pacific,Hong Kong,112 ms
+2606:4700:9ad9:b6e1:991d:f90a:778e:8470,HKG,Asia Pacific,Hong Kong,112 ms
+2606:4700:9ad8:65b:3ae2:bd99:3ede:bf50,HKG,Asia Pacific,Hong Kong,113 ms
+2606:4700:9a62:ad4f:65a1:751a:c5ce:8405,HKG,Asia Pacific,Hong Kong,113 ms
+2606:4700:9ad7:74b7:5788:2794:11b8:f8a,HKG,Asia Pacific,Hong Kong,115 ms
+2606:4700:9a61:f92e:715f:e0f:8912:b0e7,HKG,Asia Pacific,Hong Kong,115 ms
+2606:4700:9ad6:8433:6431:12a7:6919:2334,HKG,Asia Pacific,Hong Kong,115 ms
+2606:4700:9ad5:990c:661:4e3d:c2ed:e897,HKG,Asia Pacific,Hong Kong,116 ms
+2606:4700:9a60:86d8:e301:5338:bb9c:d463,HKG,Asia Pacific,Hong Kong,117 ms
+2606:4700:9ad1:aa1b:2d82:83b9:146:ee10,HKG,Asia Pacific,Hong Kong,118 ms
+2606:4700:9ad2:a899:98d7:1a7e:6905:46f0,HKG,Asia Pacific,Hong Kong,118 ms
+2606:4700:9ad0:a0ab:d52e:48e3:edd7:3a13,HKG,Asia Pacific,Hong Kong,118 ms
+2606:4700:9ad3:6fb7:f7ac:3881:b775:d17e,HKG,Asia Pacific,Hong Kong,118 ms
+2606:4700:9ae1:9b72:fcd:bee4:4c57:65c3,HKG,Asia Pacific,Hong Kong,120 ms
+2606:4700:9ae0:d443:cb6b:a6d1:9704:c157,HKG,Asia Pacific,Hong Kong,121 ms
+2606:4700:9a9b:8767:5f1:13e9:b005:f9da,HKG,Asia Pacific,Hong Kong,121 ms
+2606:4700:99e6:bbbb:5097:c0c5:9db9:3eda,HKG,Asia Pacific,Hong Kong,151 ms
+2606:4700:99e5:25a2:d4d0:4976:db91:f6f6,HKG,Asia Pacific,Hong Kong,151 ms
+2606:4700:99e3:a408:f098:4a35:5f91:465,HKG,Asia Pacific,Hong Kong,152 ms
+2606:4700:99e4:300f:c3ae:3d27:46a3:24ea,HKG,Asia Pacific,Hong Kong,152 ms
+2606:4700:99e2:aef3:3ef2:9b44:bc49:5727,HKG,Asia Pacific,Hong Kong,153 ms
+2606:4700:99e1:a237:e66:deee:c6bf:975a,HKG,Asia Pacific,Hong Kong,153 ms
+2606:4700:99e0:abd:eee2:dbc2:9b21:7c94,HKG,Asia Pacific,Hong Kong,156 ms
+2606:4700:99eb:9071:8cba:bc8d:f998:2847,HKG,Asia Pacific,Hong Kong,157 ms
+2606:4700:99e9:e9d5:8db9:3c39:2f15:139e,HKG,Asia Pacific,Hong Kong,157 ms
+2606:4700:99e8:1721:fb82:9361:5c2e:7948,HKG,Asia Pacific,Hong Kong,158 ms
+2606:4700:99ea:ff3a:83e8:78de:867e:debd,HKG,Asia Pacific,Hong Kong,159 ms
+2606:4700:99e7:6eff:6c14:e215:fe72:f8f4,HKG,Asia Pacific,Hong Kong,167 ms
+2606:4700:3032:683e:3bcb:7aff:6d1b:6414,SEA,North America,Seattle,174 ms
+2606:4700:3030:a419:f39:3e4e:717b:7b08,SEA,North America,Seattle,177 ms
+2606:4700:3031:3d40:3ea1:4345:e057:2fb5,SEA,North America,Seattle,184 ms
+2606:4700:3035:92ff:5702:b2e6:e552:87cf,SEA,North America,Seattle,186 ms
+2606:4700:3033:ffcc:d016:a7b1:eb0f:b0c4,SEA,North America,Seattle,186 ms
+2606:4700:22:d2f4:fc97:ba91:4417:39,SEA,North America,Seattle,188 ms
+2606:4700:23:dfeb:c5ab:ee28:7282:99ec,SEA,North America,Seattle,190 ms
+2606:4700:27:de20:3e0f:6267:d60e:5b83,SEA,North America,Seattle,190 ms
+2606:4700:2d:69e9:88ce:dde2:8092:9f8,SEA,North America,Seattle,190 ms
+2606:4700:29:e574:3cde:8109:837a:bc1c,SEA,North America,Seattle,190 ms
+2606:4700:26:94cc:4aee:e69e:4fe9:331,SEA,North America,Seattle,190 ms
+2606:4700:25:399b:cca6:fcaf:a503:9c57,SEA,North America,Seattle,193 ms
+2606:4700:2c:4bba:f909:30ad:c441:681a,SEA,North America,Seattle,193 ms
+2606:4700:24:d510:4e33:58a4:f1df:4e89,SEA,North America,Seattle,193 ms
+2606:4700:2b:3c58:ca31:91eb:ec6c:ec04,SEA,North America,Seattle,193 ms
+2606:4700:3037:2b9f:2c82:6134:73b5:fda1,SEA,North America,Seattle,193 ms
+2606:4700:3036:76e:b5ac:9a45:3e08:4dde,SEA,North America,Seattle,194 ms
+2606:4700:3034:4794:cc6a:be98:eb7c:5703,SEA,North America,Seattle,195 ms
+2606:4700:28:45b9:ee8:4be0:6692:c54c,SEA,North America,Seattle,199 ms
+2606:4700:2a:7cb1:6d7a:bf8e:a565:713f,SEA,North America,Seattle,199 ms
+2606:4700:2f:416a:13de:c4a6:c7f4:f51e,SEA,North America,Seattle,199 ms
+2606:4700:20:86c7:6903:264f:9776:d7a1,SEA,North America,Seattle,200 ms
+2606:4700:2e:cb5c:4f63:52b4:ea06:a032,SEA,North America,Seattle,203 ms
+2606:4700:a9:7dd:8610:c50b:73d5:5a56,SJC,North America,San Jose,210 ms
+2606:4700:6:3f48:3668:2061:c357:42a0,LAX,North America,Los Angeles,214 ms
+2606:4700:839f:c782:2545:e720:af8d:8e6e,FRA,Europe,Frankfurt,214 ms
+2803:f800:52:6679:c716:56f3:480f:5f3d,LAX,North America,Los Angeles,215 ms
+2803:f800:50:b4a:c7fd:12b:fbda:3a99,LAX,North America,Los Angeles,216 ms
+2606:4700:8dde:6b93:49fb:21ce:c570:fc0c,FRA,Europe,Frankfurt,216 ms
+2606:4700:d:ec7f:4383:111a:becd:a537,LAX,North America,Los Angeles,217 ms
+2606:4700:5c:92ef:4889:e6bf:a453:41d8,LAX,North America,Los Angeles,217 ms
+2606:4700:3026:ea8e:93fc:8f36:b9f0:4f3a,LAX,North America,Los Angeles,217 ms
+2606:4700:8d71:cbb:a9d0:bdd3:f51c:f51b,FRA,Europe,Frankfurt,217 ms
+2606:4700:9b0c:6d4a:3dc2:c62e:300d:d486,FRA,Europe,Frankfurt,217 ms
+2606:4700:8dd5:ff27:9b8e:b372:804d:2856,FRA,Europe,Frankfurt,217 ms
+2a06:98c1:3122:4500:d682:6ee:db8:c6fe,LAX,North America,Los Angeles,218 ms
+2606:4700:3018:d2c1:8001:56ee:7b18:1d86,LAX,North America,Los Angeles,218 ms
+2a06:98c1:52:36ad:78e4:e4b7:cc91:a269,LAX,North America,Los Angeles,219 ms
+2a06:98c1:51:cbf3:af3f:5d74:c68:2a82,LAX,North America,Los Angeles,219 ms
+2606:4700:440f:2a57:9e6c:176f:c3af:2ed3,LAX,North America,Los Angeles,219 ms
+2606:4700:99ef:5873:a483:3cc5:850e:cd42,FRA,Europe,Frankfurt,219 ms
+2a06:98c1:58:b5:a33b:ba16:4a7f:9893,LAX,North America,Los Angeles,220 ms
+2a06:98c1:310c:67b8:27ad:7116:ca5e:500a,LAX,North America,Los Angeles,220 ms
+2606:4700:8d75:9a1f:1f05:bc68:7033:869e,FRA,Europe,Frankfurt,220 ms
+2a06:98c1:50:3a35:2f29:bafb:94f9:d9b9,LAX,North America,Los Angeles,220 ms
+2606:4700:8ddc:d999:3707:51bb:f19c:7394,FRA,Europe,Frankfurt,220 ms
+2a06:98c1:310d:2fa8:4089:f3fc:d349:2ce2,LAX,North America,Los Angeles,221 ms
+2606:4700:8dda:45fd:101a:1e65:7df4:3e14,FRA,Europe,Frankfurt,221 ms
+2803:f800:54:7ffa:c21:f121:e6a2:35fd,LAX,North America,Los Angeles,221 ms
+2606:4700:3023:3694:62a1:a2c5:8e4c:c84a,LAX,North America,Los Angeles,221 ms
+2a06:98c1:310b:5e19:d03:4c70:bb76:1425,LAX,North America,Los Angeles,221 ms
+2606:4700:440d:a57a:8276:adca:d447:f745,LAX,North America,Los Angeles,221 ms
+2606:4700:8dd9:7141:27db:199a:8e03:ac4a,FRA,Europe,Frankfurt,221 ms
+2606:4700:3017:1fc8:cf36:1bd7:3889:bf54,LAX,North America,Los Angeles,221 ms
+2a06:98c1:3123:cbb0:d862:653c:6271:faab,LAX,North America,Los Angeles,222 ms
+2606:4700:440c:b14d:b082:8792:8938:e7df,LAX,North America,Los Angeles,222 ms
+2606:4700:8de0:6154:8732:586:a807:461b,FRA,Europe,Frankfurt,222 ms
+2606:4700:8ddf:7551:6931:de5:ea4e:1,FRA,Europe,Frankfurt,222 ms
+2803:f800:53:912:de4f:3921:bd84:5c6,LAX,North America,Los Angeles,223 ms
+2606:4700:8dd8:ab26:9cda:7b89:5953:4499,FRA,Europe,Frankfurt,223 ms
+2606:4700:8d7e:c0d2:3333:e12c:5f10:9ece,FRA,Europe,Frankfurt,223 ms
+2606:4700:8de1:6c5d:ae3d:3a23:6119:87e3,FRA,Europe,Frankfurt,223 ms
+2606:4700:440e:485f:aa77:4888:2e4b:424a,LAX,North America,Los Angeles,223 ms
+2a06:98c1:53:96d7:3dfa:a222:911a:adc2,LAX,North America,Los Angeles,224 ms
+2803:f800:51:d2c9:3799:b9a:2ff3:9c10,LAX,North America,Los Angeles,224 ms
+2606:4700:8dd6:7995:763b:ca18:5bbc:5874,FRA,Europe,Frankfurt,224 ms
+2606:4700:3022:47ce:c9a4:9bf5:4c61:f710,LAX,North America,Los Angeles,224 ms
+2606:4700:f:c239:e04b:3d12:60bf:c07f,LAX,North America,Los Angeles,225 ms
+2606:4700:3020:d41c:b98a:c79:6bd2:b1b8,LAX,North America,Los Angeles,225 ms
+2606:4700:3021:383e:74fc:f833:57ff:ad44,LAX,North America,Los Angeles,226 ms
+2606:4700:3119:ef6f:2f44:6ec2:58c:a480,LAX,North America,Los Angeles,226 ms
+2606:4700:3114:78e1:697b:1bc9:28f2:7906,LAX,North America,Los Angeles,227 ms
+2606:4700:8de9:a4e9:af0e:5739:bfa5:37b,FRA,Europe,Frankfurt,227 ms
+2a06:98c1:310a:2f27:8341:866b:8686:cd3d,LAX,North America,Los Angeles,227 ms
+2606:4700:9c6c:60a4:c25b:c4c6:96c:1606,FRA,Europe,Frankfurt,227 ms
+2606:4700:8ddb:e3c7:cac6:ad7c:80fe:2bdd,FRA,Europe,Frankfurt,227 ms
+2606:4700:8dd1:d04e:a3ea:9814:6965:4511,FRA,Europe,Frankfurt,227 ms
+2606:4700:8d97:da24:3964:aeba:d784:dc16,FRA,Europe,Frankfurt,227 ms
+2606:4700:8dd2:11:c547:801b:bc37:182a,FRA,Europe,Frankfurt,227 ms
+2606:4700:a0:de03:1556:8be1:f816:9c90,LAX,North America,Los Angeles,227 ms
+2606:4700:440b:d0e0:9372:67ab:1e3d:b725,LAX,North America,Los Angeles,227 ms
+2a06:98c1:3109:668b:3e6e:ce20:b63f:40c9,LAX,North America,Los Angeles,227 ms
+2606:4700:8dd7:5bbf:ada2:bd64:8e8c:a12f,FRA,Europe,Frankfurt,227 ms
+2606:4700:311d:7e50:bcda:1888:c1eb:11b1,LAX,North America,Los Angeles,228 ms
+2606:4700:8d94:f7f4:e9ef:460d:c6b5:8f0e,FRA,Europe,Frankfurt,228 ms
+2a06:98c1:3108:ac31:1d71:8a88:941d:d2c0,LAX,North America,Los Angeles,228 ms
+2606:4700:3118:4128:d301:d5bb:180f:e351,LAX,North America,Los Angeles,228 ms
+2606:4700:8d74:3ce1:3f43:70f9:2b8:ee94,FRA,Europe,Frankfurt,228 ms
+2606:4700:440a:9f7a:8992:d3e7:515d:5e4b,LAX,North America,Los Angeles,228 ms
+2606:4700:51:aa75:c33c:b67d:d142:621a,LAX,North America,Los Angeles,228 ms
+2606:4700:8d73:11dd:aa26:ee14:4152:d224,FRA,Europe,Frankfurt,229 ms
+2606:4700:8d7c:d4fe:dd4c:e9ac:9b1:1f8e,FRA,Europe,Frankfurt,229 ms
+2606:4700:839c:c112:6dab:985b:5493:aa4f,FRA,Europe,Frankfurt,229 ms
+2606:4700:9c6d:637a:e033:3e7c:8479:858b,FRA,Europe,Frankfurt,229 ms
+2606:4700:8d76:5904:a1d2:c1f:40f0:5f39,FRA,Europe,Frankfurt,229 ms
+2606:4700:976e:81a9:7bcb:285c:3a5e:5ab1,FRA,Europe,Frankfurt,229 ms
+2a06:98c1:3106:af40:35a7:2b84:f9c2:bb65,LAX,North America,Los Angeles,229 ms
+2606:4700:50:f662:b833:d789:55e5:70ce,LAX,North America,Los Angeles,229 ms
+2606:4700:56:8c25:8c92:8779:f846:2932,LAX,North America,Los Angeles,229 ms
+2606:4700:53:3572:dfc4:83b8:442b:86fb,LAX,North America,Los Angeles,229 ms
+2606:4700:52:1275:44bd:7c85:7e66:d5b9,LAX,North America,Los Angeles,229 ms
+2606:4700:3108:c948:9e20:4eb4:8835:49ca,LAX,North America,Los Angeles,230 ms
+2606:4700:4406:d492:5361:ad4c:fde5:6aac,LAX,North America,Los Angeles,230 ms
+2606:4700:5:c3a:d726:a374:fe8a:b317,LAX,North America,Los Angeles,230 ms
+2a06:98c1:3105:e8fe:e409:3268:a339:d8c8,LAX,North America,Los Angeles,230 ms
+2a06:98c1:3104:992d:9c15:d6d2:71b3:b3fe,LAX,North America,Los Angeles,230 ms
+2606:4700:8dd0:233:68a3:afa0:9b8c:97d7,FRA,Europe,Frankfurt,230 ms
+2606:4700:8d7a:4659:5265:ac42:2665:9069,FRA,Europe,Frankfurt,230 ms
+2606:4700:85de:5e39:192b:c4fa:56dc:7b5b,FRA,Europe,Frankfurt,230 ms
+2606:4700:8d79:d5a9:90cf:946b:46fa:7ac7,FRA,Europe,Frankfurt,230 ms
+2a06:98c1:3107:3c55:8ddc:7ec3:e333:497e,LAX,North America,Los Angeles,230 ms
+2606:4700:311e:8b72:1f6c:e359:b44b:f616,LAX,North America,Los Angeles,230 ms
+2a06:98c1:3103:26a9:629f:1ddb:5167:a7b5,LAX,North America,Los Angeles,230 ms
+2606:4700:8d77:d4ff:5729:d8fd:4857:9f56,FRA,Europe,Frankfurt,230 ms
+2606:4700:964f:b5d0:9cbd:1eda:3200:bbc4,FRA,Europe,Frankfurt,230 ms
+2606:4700:8d70:9e3c:3bbc:e162:9589:a66f,FRA,Europe,Frankfurt,230 ms
+2606:4700:3117:5406:fac0:c6e8:be84:6ac7,LAX,North America,Los Angeles,230 ms
+2606:4700:3055:1aed:5cf4:ff02:da36:5245,LAX,North America,Los Angeles,230 ms
+2606:4700:9b0d:20f8:7ac6:a01e:fe42:b4ec,FRA,Europe,Frankfurt,231 ms
+2a06:98c1:3102:cf4c:adb5:d136:ffa4:f545,LAX,North America,Los Angeles,231 ms
+2606:4700:8ddd:da90:e1be:fcd5:e5cb:b1cc,FRA,Europe,Frankfurt,231 ms
+2606:4700:311b:4f56:9699:908a:b812:c420,LAX,North America,Los Angeles,231 ms
+2606:4700:8d9f:9ed2:3374:849:1269:cec6,FRA,Europe,Frankfurt,231 ms
+2606:4700:4700:ce03:8586:a926:d48e:fda5,LAX,North America,Los Angeles,231 ms
+2606:4700:3111:a77b:8de1:8f7a:285f:5aa1,LAX,North America,Los Angeles,231 ms
+2606:4700:3027:c018:a74e:6234:c20d:4abe,LAX,North America,Los Angeles,231 ms
+2606:4700:3056:ac94:9429:4bda:dc40:ba94,LAX,North America,Los Angeles,231 ms
+2606:4700:7:1c4d:c765:b004:7026:4357,LAX,North America,Los Angeles,231 ms
+2a06:98c1:3101:234c:ccdb:5419:9e90:e294,LAX,North America,Los Angeles,231 ms
+2606:4700:85dc:d82d:ff3e:ae2e:da75:2a0d,FRA,Europe,Frankfurt,231 ms
+2606:4700:8d9a:f430:9a68:4467:27cd:148a,FRA,Europe,Frankfurt,232 ms
+2606:4700:3024:bbd8:2642:ad2e:603b:cb1d,LAX,North America,Los Angeles,232 ms
+2606:4700:4403:c2bc:6a19:da99:2cc8:ea63,LAX,North America,Los Angeles,232 ms
+2606:4700:8d9d:813b:1695:30ed:5bf:7478,FRA,Europe,Frankfurt,232 ms
+2a06:98c1:3100:1ed9:1091:15db:1943:d052,LAX,North America,Los Angeles,232 ms
+2a06:98c1:310f:eb45:46cb:27e6:3831:9309,LAX,North America,Los Angeles,232 ms
+2606:4700:4408:e9df:bea6:277a:aad4:5618,LAX,North America,Los Angeles,232 ms
+2606:4700:4407:45e3:239:98c6:c012:35e,LAX,North America,Los Angeles,232 ms
+2606:4700:4409:b362:dad9:a91f:fe65:b9f,LAX,North America,Los Angeles,232 ms
+2606:4700:8dd3:a52d:113d:13eb:f73f:a43d,FRA,Europe,Frankfurt,232 ms
+2606:4700:4404:2151:2bfb:cf60:e644:a3f6,LAX,North America,Los Angeles,233 ms
+2606:4700:8d99:be5d:b510:ab2a:de82:f2df,FRA,Europe,Frankfurt,233 ms
+2606:4700:3019:1256:e93a:59e0:e55:4f29,LAX,North America,Los Angeles,233 ms
+2606:4700:4405:254e:376d:8889:ae57:c599,LAX,North America,Los Angeles,233 ms
+2606:4700:310c:6f03:ce60:5b63:9696:1456,LAX,North America,Los Angeles,233 ms
+2606:4700:8d72:40a6:32da:f55b:20a0:3809,FRA,Europe,Frankfurt,233 ms
+2606:4700:4401:3091:97e1:d16f:920c:ad7c,LAX,North America,Los Angeles,233 ms
+2606:4700:8d9c:b05f:11f4:efb2:5933:1815,FRA,Europe,Frankfurt,233 ms
+2606:4700:8de5:93bf:bc72:1071:8af2:7a99,FRA,Europe,Frankfurt,233 ms
+2606:4700:85d7:9b1:9621:c01f:40cf:a442,FRA,Europe,Frankfurt,233 ms
+2606:4700:4400:75e4:3c2:2cbb:2cf0:8aa2,LAX,North America,Los Angeles,234 ms
+2606:4700:85db:e408:d343:2ed1:9f68:9931,FRA,Europe,Frankfurt,234 ms
+2a06:98c1:310e:5c0f:352c:f5c8:7ea2:9905,LAX,North America,Los Angeles,234 ms
+2606:4700:8de8:40a3:b685:bc9d:65ec:19fa,FRA,Europe,Frankfurt,234 ms
+2606:4700:99ee:97a4:f0fe:eb51:324a:827b,FRA,Europe,Frankfurt,234 ms
+2606:4700:8cac:d12d:5826:595b:d989:4b8d,FRA,Europe,Frankfurt,234 ms
+2606:4700:3038:959a:64f4:78bd:e9aa:96e4,LAX,North America,Los Angeles,234 ms
+2606:4700:58:c8a6:ecdc:7504:3798:ba60,LAX,North America,Los Angeles,234 ms
+2606:4700:4402:2b17:5645:d6f1:56a4:b8d2,LAX,North America,Los Angeles,234 ms
+2606:4700:839e:a71c:f3b:4b0b:82d0:c168,FRA,Europe,Frankfurt,235 ms
+2a06:98c1:56:fbcd:cd96:48b1:254:f1c9,LAX,North America,Los Angeles,235 ms
+2606:4700:839d:2864:1b6c:7d03:2f1d:5c19,FRA,Europe,Frankfurt,235 ms
+2606:4700:964e:35a9:a745:f6e7:3145:7e50,FRA,Europe,Frankfurt,235 ms
+2606:4700:9aed:efec:e177:e857:fb63:e7d,FRA,Europe,Frankfurt,235 ms
+2606:4700:c:5ba3:24fd:1fc9:7742:db84,LAX,North America,Los Angeles,235 ms
+2606:4700:8:24fb:9009:ab93:90e5:d716,LAX,North America,Los Angeles,235 ms
+2606:4700:3029:a659:bb8f:20da:1266:3147,LAX,North America,Los Angeles,236 ms
+2606:4700:8d96:9f0d:5a37:9ecb:24ee:7c67,FRA,Europe,Frankfurt,236 ms
+2606:4700:8ded:257d:32c5:faed:6eb:228b,FRA,Europe,Frankfurt,236 ms
+2606:4700:8d7d:9053:dd2e:c3de:d23a:a3f1,FRA,Europe,Frankfurt,237 ms
+2606:4700:9aec:9962:e37e:d8c7:7272:c5d0,FRA,Europe,Frankfurt,237 ms
+2606:4700:8d93:8c15:4923:7af2:5229:b3f5,FRA,Europe,Frankfurt,237 ms
+2606:4700:3025:2f88:269a:d843:dcd2:3c66,LAX,North America,Los Angeles,237 ms
+2606:4700:0:71bb:dcf4:4cc9:b481:ec7b,LAX,North America,Los Angeles,237 ms
+2606:4700:8d7b:aa2e:5540:7d3a:106f:f6e5,FRA,Europe,Frankfurt,237 ms
+2606:4700:8d98:7998:3d4e:3e81:3049:baae,FRA,Europe,Frankfurt,237 ms
+2606:4700:3012:ba41:fda0:32a:6892:4140,LAX,North America,Los Angeles,238 ms
+2606:4700:8de6:8e88:3576:f6b5:b9a8:b8bf,FRA,Europe,Frankfurt,238 ms
+2606:4700:b:6ed5:da20:9eee:e107:cacf,LAX,North America,Los Angeles,238 ms
+2606:4700:8dec:3692:e81e:321:9c81:aeb7,FRA,Europe,Frankfurt,238 ms
+2606:4700:964d:378a:3dc2:d2e6:a95d:7075,FRA,Europe,Frankfurt,238 ms
+2606:4700:3039:f988:57f9:d793:7755:8199,LAX,North America,Los Angeles,238 ms
+2606:4700:4:8ce1:c8ad:682a:d90f:e5cb,LAX,North America,Los Angeles,238 ms
+2606:4700:3028:8c7c:9bd7:62e4:80d1:a592,LAX,North America,Los Angeles,238 ms
+2606:4700:99ed:d1c2:c320:725f:2c8d:8fe7,FRA,Europe,Frankfurt,238 ms
+2606:4700:8dee:dae6:ff48:53b2:52ec:3543,FRA,Europe,Frankfurt,239 ms
+2606:4700:3010:f89d:35da:1b4a:1065:b8c8,LAX,North America,Los Angeles,239 ms
+2606:4700:3003:21e5:5f17:f2f3:44c1:9007,LAX,North America,Los Angeles,239 ms
+2606:4700:e:7c4e:78d5:b661:db39:16e,LAX,North America,Los Angeles,239 ms
+2606:4700:85d5:8a3b:c26c:efec:b924:dbe3,FRA,Europe,Frankfurt,239 ms
+2606:4700:8d78:72e8:baba:c8ac:b9c4:a8f2,FRA,Europe,Frankfurt,239 ms
+2400:cb00:2049:6ff8:e4c:90db:816f:ebcf,LAX,North America,Los Angeles,239 ms
+2606:4700:99ec:c040:f21e:7730:242e:2137,FRA,Europe,Frankfurt,239 ms
+2606:4700:a1:452f:f792:11db:271c:1fb8,LAX,North America,Los Angeles,240 ms
+2606:4700:8d9b:371:28ea:af71:4a4:561c,FRA,Europe,Frankfurt,240 ms
+2606:4700:8de3:1d51:3cb3:a7fb:6ec6:3124,FRA,Europe,Frankfurt,240 ms
+2606:4700:15:5c5f:d584:6f61:5aa9:4b5,LAX,North America,Los Angeles,240 ms
+2606:4700:8de7:1080:f1a3:4d8b:1bf7:f4dc,FRA,Europe,Frankfurt,240 ms
+2606:4700:9b0f:7940:755e:ed9a:d14c:6db0,FRA,Europe,Frankfurt,240 ms
+2606:4700:8d90:4479:affc:a9ae:312c:c58b,FRA,Europe,Frankfurt,240 ms
+2606:4700:9aee:544d:e42:620a:fcb5:5f89,FRA,Europe,Frankfurt,240 ms
+2606:4700:85d9:d8da:5323:5a26:a1cf:d80a,FRA,Europe,Frankfurt,240 ms
+2606:4700:8de2:7a1c:142a:3c21:e153:4b2c,FRA,Europe,Frankfurt,240 ms
+2606:4700:85d8:e16c:42:787c:1d82:6fac,FRA,Europe,Frankfurt,240 ms
+2606:4700:8caf:1d47:e23e:39f4:8b26:ce50,FRA,Europe,Frankfurt,240 ms
+2606:4700:5a:f9a:4bdc:36b6:db06:fa2b,LAX,North America,Los Angeles,241 ms
+2606:4700:8d9e:f08c:3e84:1ca4:4f7f:880b,FRA,Europe,Frankfurt,241 ms
+2606:4700:8d92:219b:ce16:d580:b8b:b665,FRA,Europe,Frankfurt,241 ms
+2606:4700:a:80f4:ccda:d053:1d64:a790,LAX,North America,Los Angeles,241 ms
+2606:4700:9b0e:55de:5e4f:2eea:35:e31a,FRA,Europe,Frankfurt,241 ms
+2606:4700:3116:4a52:2014:77b0:b6f4:b677,LAX,North America,Los Angeles,241 ms
+2606:4700:85dd:c8ff:ec8c:d287:91c2:16d3,FRA,Europe,Frankfurt,241 ms
+2606:4700:134:7303:a5bc:dae5:41e1:b473,LAX,North America,Los Angeles,241 ms
+2606:4700:13d:2d55:e4fa:20bf:855b:df99,LAX,North America,Los Angeles,241 ms
+2606:4700:1a:80cc:e29f:3425:4ee1:5669,LAX,North America,Los Angeles,241 ms
+2606:4700:8d95:ea2a:3fc9:3dff:443a:5938,FRA,Europe,Frankfurt,241 ms
+2606:4700:8cae:1a7e:12d2:9f3a:692e:4f5e,FRA,Europe,Frankfurt,241 ms
+2400:cb00:f00e:c15d:d52d:b6c6:81e5:2f8e,LAX,North America,Los Angeles,241 ms
+2606:4700:21:1870:7e9a:5a3:8dc1:f4b4,LAX,North America,Los Angeles,241 ms
+2606:4700:8deb:f71:f021:59cc:cee0:2200,FRA,Europe,Frankfurt,242 ms
+2606:4700:1:ca97:fe1:c42d:7985:94a8,LAX,North America,Los Angeles,242 ms
+2606:4700:85d0:c0de:fb5b:d1b8:31d9:1bca,FRA,Europe,Frankfurt,242 ms
+2606:4700:8de4:50a6:6d12:c53e:24b:d690,FRA,Europe,Frankfurt,242 ms
+2606:4700:9aef:8523:6453:a989:4f6f:b3ee,FRA,Europe,Frankfurt,242 ms
+2606:4700:964c:4777:14db:d863:c9ea:423f,FRA,Europe,Frankfurt,242 ms
+2606:4700:13e:d850:afb0:4154:8288:a920,LAX,North America,Los Angeles,242 ms
+2606:4700:91bf:95d6:50c6:111c:7e2e:4581,FRA,Europe,Frankfurt,243 ms
+2606:4700:3015:3a33:13a:f910:81d4:9e92,LAX,North America,Los Angeles,243 ms
+2606:4700:8dd4:1d76:8ce5:625c:2d6d:3d96,FRA,Europe,Frankfurt,243 ms
+2606:4700:85df:8f72:4e8b:5d90:7fec:d70e,FRA,Europe,Frankfurt,243 ms
+2606:4700:13c:2538:1e66:43d6:ca88:121a,SJC,North America,San Jose,243 ms
+2606:4700:83bf:bfb1:ff0c:cfcb:b9f3:66a5,FRA,Europe,Frankfurt,244 ms
+2606:4700:83bc:45c6:8eea:1377:9e86:4e9a,FRA,Europe,Frankfurt,244 ms
+2606:4700:10:4434:8e2:9db0:b1ab:927c,LAX,North America,Los Angeles,244 ms
+2606:4700:3016:c4b4:ec88:1f95:5ade:187,LAX,North America,Los Angeles,245 ms
+2606:4700:8d7f:3b68:3c6f:3bb1:6ae2:4e65,FRA,Europe,Frankfurt,245 ms
+2606:4700:8d91:c844:bce5:2278:a8f2:5c5,FRA,Europe,Frankfurt,245 ms
+2606:4700:8cad:a36a:820c:42cd:2182:9aff,FRA,Europe,Frankfurt,246 ms
+2606:4700:85d6:87d4:4b79:a05e:ab61:3805,FRA,Europe,Frankfurt,246 ms
+2606:4700:85da:dab4:1b51:8a2c:8e55:95be,FRA,Europe,Frankfurt,246 ms
+2606:4700:976f:fdf7:1cf1:bd1a:7f29:c1c3,FRA,Europe,Frankfurt,247 ms
+2606:4700:133:df59:3995:563a:f867:1b81,LAX,North America,Los Angeles,247 ms
+2606:4700:1c:2953:a40e:777d:5edb:4a66,LAX,North America,Los Angeles,247 ms
+2606:4700:83bd:b7bf:fe3d:eb84:e0f8:a019,FRA,Europe,Frankfurt,247 ms
+2606:4700:85d3:a819:d27d:30d8:57c7:b703,FRA,Europe,Frankfurt,247 ms
+2606:4700:85d4:23c6:804e:9920:7941:c667,FRA,Europe,Frankfurt,247 ms
+2606:4700:83be:6f46:86e9:7be1:67df:b1a,FRA,Europe,Frankfurt,248 ms
+2606:4700:85d2:3457:5490:8502:5e3c:6be2,FRA,Europe,Frankfurt,248 ms
+2606:4700:8def:6800:5064:1861:469d:771,FRA,Europe,Frankfurt,248 ms
+2606:4700:9:2c13:6875:704f:11f8:86a0,LAX,North America,Los Angeles,248 ms
+2606:4700:54:2af:ebb5:36ee:58aa:452b,LAX,North America,Los Angeles,248 ms
+2606:4700:136:9e17:30e4:1586:d7de:a95c,LAX,North America,Los Angeles,248 ms
+2606:4700:13a:7277:7eb:16be:c132:a9f8,LAX,North America,Los Angeles,248 ms
+2606:4700:101:99b4:fcb7:4522:47f4:607c,LAX,North America,Los Angeles,248 ms
+2606:4700:139:51a7:8d39:1cee:ae7c:ed1,LAX,North America,Los Angeles,248 ms
+2606:4700:85d1:8efa:f556:d545:fb75:10a4,FRA,Europe,Frankfurt,248 ms
+2606:4700:59:ada1:d2d9:c752:f1be:44aa,LAX,North America,Los Angeles,248 ms
+2606:4700:91be:40f9:a3ba:c306:6628:c8ef,FRA,Europe,Frankfurt,249 ms
+2606:4700:300b:712:3ce:4763:6e92:dcf9,LAX,North America,Los Angeles,249 ms
+2606:4700:91bd:b771:6715:aab7:4429:f63d,FRA,Europe,Frankfurt,249 ms
+2606:4700:976d:5269:2718:8680:d2fd:d5c9,FRA,Europe,Frankfurt,250 ms
+2606:4700:3:1207:1794:cd13:aa33:73d8,LAX,North America,Los Angeles,250 ms
+2606:4700:13b:73cb:bdf0:f3f2:1e9e:ea72,LAX,North America,Los Angeles,250 ms
+2606:4700:3006:3eaa:7f54:fead:a2e6:1316,LAX,North America,Los Angeles,250 ms
+2606:4700:130:d67:8450:698d:4817:512c,LAX,North America,Los Angeles,250 ms
+2606:4700:11:e694:6eb1:7b66:c86f:93e2,LAX,North America,Los Angeles,250 ms
+2606:4700:1d:77ac:f65e:dc71:5379:fac8,LAX,North America,Los Angeles,250 ms
+2606:4700:137:33f8:6695:c88e:bb1c:b60e,LAX,North America,Los Angeles,250 ms
+2606:4700:3113:633e:70e2:aa8:ae7:437,LAX,North America,Los Angeles,250 ms
+2606:4700:3011:3cf6:6e25:6c9f:8d0:3534,LAX,North America,Los Angeles,250 ms
+2606:4700:91bc:b5b4:659f:edd5:3be:e97f,FRA,Europe,Frankfurt,250 ms
+2606:4700:8dea:bb16:3234:a045:1209:a06a,FRA,Europe,Frankfurt,251 ms
+2606:4700:138:9a55:d2e5:c2b7:32eb:c520,LAX,North America,Los Angeles,251 ms
+2606:4700:16:d840:eabc:aec9:512e:18cc,LAX,North America,Los Angeles,251 ms
+2606:4700:3000:948c:c169:2f54:1cfe:d77b,LAX,North America,Los Angeles,251 ms
+2606:4700:13f:c03e:f27e:9f56:2764:f325,LAX,North America,Los Angeles,251 ms
+2606:4700:300a:ccb3:80b7:1413:b639:8a7c,LAX,North America,Los Angeles,251 ms
+2606:4700:1e:b28a:5cee:4803:d041:8f4,LAX,North America,Los Angeles,251 ms
+2606:4700:10f:51e0:cdf1:9611:c41:60aa,LAX,North America,Los Angeles,251 ms
+2606:4700:976c:863d:f51a:20f4:c91f:7a04,FRA,Europe,Frankfurt,252 ms
+2606:4700:19:3663:b0ad:db6b:32c5:784b,LAX,North America,Los Angeles,252 ms
+2606:4700:9c6f:5175:6a4f:d759:a1d1:56cd,FRA,Europe,Frankfurt,252 ms
+2606:4700:9c6e:4fb5:5351:636f:9f9a:9ac2,FRA,Europe,Frankfurt,253 ms
+2606:4700:1b:dce4:1f21:6008:a49d:819c,LAX,North America,Los Angeles,254 ms
+2606:4700:135:ecb8:2322:e7c5:7b8e:1cd2,LAX,North America,Los Angeles,254 ms
+2606:4700:132:6d3a:e5c4:d549:7140:5729,LAX,North America,Los Angeles,254 ms
+2606:4700:17:5e61:71e9:6fc8:3c95:8c1,LAX,North America,Los Angeles,254 ms
+2606:4700:3004:f6cf:6e01:b4fc:dc40:d923,LAX,North America,Los Angeles,254 ms
+2606:4700:13:612:8bf3:497c:a0c1:4c84,LAX,North America,Los Angeles,255 ms
+2606:4700:131:3729:535a:f6c8:cfda:d466,LAX,North America,Los Angeles,255 ms
+2606:4700:3013:1779:1965:e2c6:6557:719e,LAX,North America,Los Angeles,255 ms
+2606:4700:90df:c4fc:c609:b5fc:dc1f:d039,FRA,Europe,Frankfurt,255 ms
+2606:4700:311a:8d17:8fb2:9eae:c57:d63b,LAX,North America,Los Angeles,256 ms
+2606:4700:90de:34ae:3537:cc6e:bcbb:c83a,FRA,Europe,Frankfurt,256 ms
+2606:4700:3007:5536:efda:249d:c065:39e6,LAX,North America,Los Angeles,256 ms
+2606:4700:90dd:36a6:54f4:2b6b:6d92:8cc7,FRA,Europe,Frankfurt,256 ms
+2606:4700:2:5c81:18a5:322d:672f:e2e4,LAX,North America,Los Angeles,256 ms
+2606:4700:90dc:21e0:12bf:7c3a:dc0e:46c3,FRA,Europe,Frankfurt,257 ms
+2606:4700:3005:14b5:7e1e:cd4c:ce13:54d,LAX,North America,Los Angeles,257 ms
+2606:4700:9a6d:a36a:482:d34c:e7cc:d0d3,FRA,Europe,Frankfurt,258 ms
+2606:4700:18:2e54:ab03:a2bc:b006:810c,LAX,North America,Los Angeles,259 ms
+2606:4700:3002:c261:91:38f2:481b:9878,LAX,North America,Los Angeles,259 ms
+2606:4700:1f:beea:5a70:a3dd:b814:46b8,LAX,North America,Los Angeles,260 ms
+2606:4700:5b:9f1d:640f:810c:86b:78a,LAX,North America,Los Angeles,261 ms
+2606:4700:14:e22f:ce5c:4412:6d9f:2566,LAX,North America,Los Angeles,262 ms
+2606:4700:3110:179c:bb24:a489:b083:b942,LAX,North America,Los Angeles,262 ms
+2606:4700:3009:beef:7645:ab32:4691:af56,LAX,North America,Los Angeles,262 ms
+2606:4700:3008:2353:c7ff:fb8e:2c21:ebad,LAX,North America,Los Angeles,262 ms
+2606:4700:3014:2b01:6cfb:b344:ae3b:b981,LAX,North America,Los Angeles,262 ms
+2606:4700:3001:7372:eba:5acc:f413:890b,LAX,North America,Los Angeles,263 ms
+2606:4700:12:6761:a4a4:b5ce:678b:babd,LAX,North America,Los Angeles,264 ms
+2606:4700:311f:226b:b048:1e20:d5c0:904f,LAX,North America,Los Angeles,267 ms
+2606:4700:9a6f:d589:af38:9714:3a0c:91f6,FRA,Europe,Frankfurt,273 ms
+2606:4700:9a6c:19a2:df44:fbe9:fee5:7236,FRA,Europe,Frankfurt,275 ms
+2606:4700:9a9f:84f4:a602:11ce:cc75:e445,FRA,Europe,Frankfurt,276 ms
+2606:4700:9a6e:6c6a:f6b8:3e4d:ef46:bb08,FRA,Europe,Frankfurt,278 ms
+2606:4700:9adc:335d:64ca:d679:57cd:e16f,FRA,Europe,Frankfurt,278 ms
+2606:4700:90cf:263e:8feb:805d:1b9c:dcd4,FRA,Europe,Frankfurt,280 ms
+2606:4700:90ce:ab00:6f80:123:276d:7422,FRA,Europe,Frankfurt,281 ms
+2606:4700:9ade:a4e0:dd73:fece:dbd6:2f96,FRA,Europe,Frankfurt,283 ms
+2606:4700:9adf:d486:852e:5877:1dcc:196d,FRA,Europe,Frankfurt,285 ms
+2606:4700:9add:2f9d:592:63:8dc6:ef9e,FRA,Europe,Frankfurt,288 ms
+2606:4700:9a9e:25e2:f13b:538e:f9a7:1c60,FRA,Europe,Frankfurt,291 ms
+2606:4700:90cd:50e3:5e5c:3451:98f4:bc67,FRA,Europe,Frankfurt,291 ms
+2606:4700:90cc:f38b:c4f6:cba6:c719:e508,FRA,Europe,Frankfurt,291 ms
+2606:4700:9a9c:a273:2d44:be1a:f8c6:99f6,FRA,Europe,Frankfurt,292 ms
+2606:4700:9a9d:2c1b:9e1b:72a0:93f2:a1ea,FRA,Europe,Frankfurt,295 ms
+2606:4700:83bb:3676:cda0:95d1:dcc1:41f8,MAA,Asia Pacific,Chennai,333 ms
+2606:4700:83b8:31c1:c6d4:6eef:1ca5:6561,MAA,Asia Pacific,Chennai,346 ms
+2606:4700:83b5:b45b:e003:7a89:9f53:969f,MAA,Asia Pacific,Chennai,346 ms
+2606:4700:83b3:7c83:437c:ce4:195d:f1d5,MAA,Asia Pacific,Chennai,348 ms
+2606:4700:83b9:37c5:2103:a057:d10f:9b7f,MAA,Asia Pacific,Chennai,350 ms
+2606:4700:83b2:6b37:34c0:2fb:7a29:77ea,MAA,Asia Pacific,Chennai,351 ms
+2606:4700:83b1:ce21:d527:6126:9e77:ed68,MAA,Asia Pacific,Chennai,352 ms
+2606:4700:83b6:6f6f:70f3:76a1:97a8:217b,MAA,Asia Pacific,Chennai,352 ms
+2606:4700:83b0:1f2f:adc7:5955:cd01:f0e1,MAA,Asia Pacific,Chennai,352 ms
+2606:4700:83ba:9350:da8:4ca8:a672:d3f3,MAA,Asia Pacific,Chennai,373 ms
